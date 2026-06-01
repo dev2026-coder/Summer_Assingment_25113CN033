@@ -14,7 +14,7 @@ int main (){
 else{
     for(int i=2;i<=number/2;i++){
 
-        if (number%i==0){// conditio for a number if it is prime
+        if (number%i==0){// condition for a number if it is prime
             count++;
             break;
         }
