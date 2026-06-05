@@ -1,3 +1,5 @@
+// Q28 Write a program to Recursive reverse number.
+
 #include<stdio.h>
 
 int reverse(int n,int rev){
